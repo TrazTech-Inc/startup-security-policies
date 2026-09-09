@@ -50,7 +50,7 @@ The following are [COMPANY_NAME]'s baseline RTO/RPO targets. These must be valid
 | **Internal non-critical** | 72 hours | 24 hours | Internal wikis, project management, analytics |
 | **Development and staging** | 1 week | 24 hours | Dev/staging environments, CI/CD |
 
-These targets must be reviewed whenever new systems are introduced, customer SLAs change, or the BIA is updated. Setting an RTO or RPO that your infrastructure cannot deliver creates a false sense of security -- validate through testing.
+These targets must be reviewed whenever new systems are introduced, customer SLAs change, or the BIA is updated. Setting an RTO or RPO that your infrastructure cannot deliver creates a false sense of security: validate through testing.
 
 ### 3.3 Business Continuity Plan (BCP)
 
@@ -157,4 +157,4 @@ This policy shall be reviewed **annually** or upon significant changes to [COMPA
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on recurring continuity tasks, read [Compliance Calendar: What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on recurring continuity tasks, read [Compliance Calendar: What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs).*

@@ -196,4 +196,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on maintaining evidence of change management controls between audits, read [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on maintaining evidence of change management controls between audits, read [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh).*

@@ -76,10 +76,10 @@ MFA is **mandatory** for the following:
 
 Acceptable MFA methods, in order of preference:
 
-1. Hardware security keys (FIDO2/WebAuthn) -- **required for administrative/privileged accounts**
-2. Authenticator applications (TOTP) -- acceptable for standard accounts
-3. Push-based authentication -- acceptable for standard accounts
-4. SMS-based OTP -- **not accepted** due to known vulnerabilities (SIM swapping, interception)
+1. Hardware security keys (FIDO2/WebAuthn): **required for administrative/privileged accounts**
+2. Authenticator applications (TOTP): acceptable for standard accounts
+3. Push-based authentication: acceptable for standard accounts
+4. SMS-based OTP: **not accepted** due to known vulnerabilities (SIM swapping, interception)
 
 #### 3.4.2 Password Requirements
 
@@ -90,14 +90,14 @@ For systems where passwords are used in conjunction with MFA:
 - Must not be present in known breach databases (checked at creation and rotation)
 - Must not be a dictionary word or common pattern
 - No mandatory complexity rules (uppercase/lowercase/special character requirements), consistent with NIST SP 800-63B guidance that length and breach-checking are more effective
-- Passwords must be unique across all company accounts -- no reuse of passwords between services
+- Passwords must be unique across all company accounts: no reuse of passwords between services
 - All personnel must use the company-approved password manager
 
 #### 3.4.3 Service Accounts and API Keys
 
 - Service accounts must be tied to a specific application or process, not to an individual.
 - Each service account must have a designated human owner responsible for its lifecycle.
-- Service account credentials must be stored in a secrets management system (e.g., AWS Secrets Manager, HashiCorp Vault, GCP Secret Manager) -- never in source code, configuration files, or environment variables committed to version control.
+- Service account credentials must be stored in a secrets management system (e.g., AWS Secrets Manager, HashiCorp Vault, GCP Secret Manager): never in source code, configuration files, or environment variables committed to version control.
 - API keys and service account credentials must be rotated at least every 90 days, or immediately upon suspected compromise.
 - Service accounts must have the minimum permissions required for their specific function.
 
@@ -178,7 +178,7 @@ This policy shall be reviewed **annually** or upon:
 
 | Framework | Control | Description |
 |---|---|---|
-| SOC 2 | CC6.1 | Logical and Physical Access Controls -- Implements Logical Access Security |
+| SOC 2 | CC6.1 | Logical and Physical Access Controls: Implements Logical Access Security |
 | SOC 2 | CC6.2 | Prior to Issuing System Credentials, Registers and Authorizes New Users |
 | SOC 2 | CC6.3 | Authorizes, Modifies, or Removes Access Based on Authorization |
 | SOC 2 | CC6.5 | Restricts Registration and Devices to Authorized Individuals |
@@ -194,4 +194,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on preventing control drift in access reviews, read [Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on preventing control drift in access reviews, read [Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits).*

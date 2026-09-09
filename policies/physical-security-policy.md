@@ -13,7 +13,7 @@
 
 ## 1. Purpose
 
-This Physical Security Policy defines [COMPANY_NAME]'s requirements for protecting physical facilities, equipment, and information assets from unauthorized physical access, damage, theft, and environmental threats. Physical security is the often-overlooked counterpart to logical security -- the best firewall in the world does not help if someone walks into your office and takes a laptop with unencrypted customer data.
+This Physical Security Policy defines [COMPANY_NAME]'s requirements for protecting physical facilities, equipment, and information assets from unauthorized physical access, damage, theft, and environmental threats. Physical security is the often-overlooked counterpart to logical security: the best firewall in the world does not help if someone walks into your office and takes a laptop with unencrypted customer data.
 
 For organizations operating primarily in the cloud with remote workforces, physical security focuses on endpoint protection, device management, and reliance on cloud providers' physical security controls. This policy addresses both scenarios.
 
@@ -212,4 +212,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For a comprehensive readiness assessment, use the free [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For a comprehensive readiness assessment, use the free [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist).*

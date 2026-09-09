@@ -84,15 +84,15 @@ The following events must be logged for all in-scope systems. If a system cannot
 
 Each log entry must contain sufficient information for security analysis and forensic investigation. At minimum, log entries must include:
 
-- **Timestamp** -- in UTC, with millisecond precision where supported
-- **Event type** -- classification of the event
-- **Source** -- the system, application, or service generating the log
-- **Actor** -- the user, service account, or process that initiated the event
-- **Source IP/location** -- the network address of the actor where applicable
-- **Target** -- the resource, system, or data affected
-- **Action** -- what was done (read, write, delete, modify, login, etc.)
-- **Outcome** -- success, failure, or error
-- **Severity/priority** -- the log level or severity classification
+- **Timestamp**: in UTC, with millisecond precision where supported
+- **Event type**: classification of the event
+- **Source**: the system, application, or service generating the log
+- **Actor**: the user, service account, or process that initiated the event
+- **Source IP/location**: the network address of the actor where applicable
+- **Target**: the resource, system, or data affected
+- **Action**: what was done (read, write, delete, modify, login, etc.)
+- **Outcome**: success, failure, or error
+- **Severity/priority**: the log level or severity classification
 
 **Log content must NOT include:**
 - Passwords, tokens, API keys, or other authentication secrets
@@ -236,4 +236,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on maintaining logging evidence between audits, read [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on maintaining logging evidence between audits, read [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh).*

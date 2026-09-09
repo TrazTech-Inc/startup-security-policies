@@ -31,12 +31,12 @@ Every template uses standardized placeholders enclosed in square brackets. Use y
 Each policy has a **Scope** section. Tailor it to reflect:
 
 - **Which systems are in scope.** If you only need SOC 2 for your production SaaS platform, say so. Do not claim your entire corporate network is covered unless it genuinely is.
-- **Which personnel are covered.** Full-time employees, contractors, third-party vendors -- be specific about who must comply.
+- **Which personnel are covered.** Full-time employees, contractors, third-party vendors: be specific about who must comply.
 - **Which locations apply.** Remote-first? Single office? Coworking space? Your physical security policy should match.
 
 ### Step 3: Align Timelines and SLAs to Your Capacity
 
-Templates include suggested timelines (e.g., "respond to incidents within 1 hour," "review access quarterly"). Adjust these based on what your team can actually sustain. Auditors will ask for evidence that you met your own timelines -- setting unrealistic targets creates audit findings.
+Templates include suggested timelines (e.g., "respond to incidents within 1 hour," "review access quarterly"). Adjust these based on what your team can actually sustain. Auditors will ask for evidence that you met your own timelines: setting unrealistic targets creates audit findings.
 
 ### Step 4: Remove What Does Not Apply
 
@@ -61,12 +61,12 @@ These templates cover the most common controls, but your organization may need a
 
 ### Acceptable Use Policy
 - Tailor the acceptable and prohibited activities to your culture. A developer tools company may allow broader internet usage than a healthcare startup.
-- Specify your actual BYOD stance -- do you issue company devices, or do employees use personal laptops? The policy must match.
+- Specify your actual BYOD stance: do you issue company devices, or do employees use personal laptops? The policy must match.
 - Include your specific collaboration tools (Slack, Google Workspace, Microsoft 365) rather than generic references.
 
 ### Access Control Policy
 - List your actual identity provider (Okta, Google Workspace, Azure AD, JumpCloud).
-- Specify which systems require MFA and what MFA methods you accept (hardware keys, authenticator apps, SMS -- be honest about your current state).
+- Specify which systems require MFA and what MFA methods you accept (hardware keys, authenticator apps, SMS: be honest about your current state).
 - Define your actual role hierarchy. If you use a flat structure with minimal RBAC, do not claim enterprise-grade role segregation.
 - Set access review frequencies you can sustain. Quarterly reviews are standard; monthly may be aspirational.
 
@@ -106,7 +106,7 @@ These templates cover the most common controls, but your organization may need a
 - Align onboarding and offboarding checklists with your actual IT provisioning process.
 - Specify your real background check requirements (which roles, which checks, which provider).
 - Reference your actual security awareness training platform (KnowBe4, Curricula, internal training).
-- Set training frequency you will maintain -- annual is standard, but new hires should complete training within their first week.
+- Set training frequency you will maintain: annual is standard, but new hires should complete training within their first week.
 
 ### Logging & Monitoring Policy
 - Name your actual logging platform (Datadog, Splunk, CloudWatch, ELK stack).

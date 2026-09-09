@@ -34,9 +34,9 @@ Vendors shall be classified into tiers based on the sensitivity of data they acc
 
 | Tier | Criteria | Due Diligence Level | Review Frequency |
 |---|---|---|---|
-| **Tier 1 -- Critical** | Processes or stores Restricted or Confidential data; provides services critical to production operations; failure would cause significant business disruption or regulatory exposure. | Comprehensive assessment | Annually |
-| **Tier 2 -- Important** | Accesses Internal data; provides services that support business operations but are not production-critical; moderate impact if service is disrupted. | Standard assessment | Every 2 years |
-| **Tier 3 -- Low Risk** | No access to sensitive data; provides non-critical services; limited impact if service is disrupted. | Lightweight review | Every 3 years or at renewal |
+| **Tier 1: Critical** | Processes or stores Restricted or Confidential data; provides services critical to production operations; failure would cause significant business disruption or regulatory exposure. | Comprehensive assessment | Annually |
+| **Tier 2: Important** | Accesses Internal data; provides services that support business operations but are not production-critical; moderate impact if service is disrupted. | Standard assessment | Every 2 years |
+| **Tier 3: Low Risk** | No access to sensitive data; provides non-critical services; limited impact if service is disrupted. | Lightweight review | Every 3 years or at renewal |
 
 **Examples by tier:**
 
@@ -50,7 +50,7 @@ Vendors shall be classified into tiers based on the sensitivity of data they acc
 
 Before engaging a new vendor, [COMPANY_NAME] shall conduct due diligence proportionate to the vendor's tier:
 
-**Tier 1 -- Comprehensive Assessment:**
+**Tier 1: Comprehensive Assessment:**
 - Request and review the vendor's SOC 2 Type II report (or equivalent: SOC 1, ISO 27001 certificate, or PCI DSS AOC if applicable). The report must be current (issued within the last 12 months).
 - Review any exceptions, qualifications, or findings noted in the report and assess their relevance to [COMPANY_NAME]'s use case.
 - Complete a vendor security questionnaire (SIG Lite, CAIQ, or [COMPANY_NAME]'s custom questionnaire) covering: data handling, encryption, access controls, incident response, business continuity, employee security, and subprocessor management.
@@ -59,12 +59,12 @@ Before engaging a new vendor, [COMPANY_NAME] shall conduct due diligence proport
 - Verify the vendor's incident response and breach notification commitments (notification within 72 hours or less is expected).
 - Assess the vendor's financial stability if the engagement involves critical services or significant spend.
 
-**Tier 2 -- Standard Assessment:**
+**Tier 2: Standard Assessment:**
 - Request and review the vendor's SOC 2 report or ISO 27001 certificate, or the vendor's published security page/trust center.
 - Complete an abbreviated security questionnaire focusing on data handling, encryption, and access controls.
 - Review the vendor's terms of service and privacy policy for data handling provisions.
 
-**Tier 3 -- Lightweight Review:**
+**Tier 3: Lightweight Review:**
 - Review the vendor's published security information (security page, privacy policy).
 - Confirm that no sensitive data will be shared with the vendor.
 - Document the vendor's purpose and scope of engagement.
@@ -174,4 +174,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. Assess your cloud vendor security posture with the free [Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. Assess your cloud vendor security posture with the free [Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check).*

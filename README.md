@@ -8,9 +8,9 @@ Maintained by [TrazTech](https://traztech.ca) | Toronto-based Security & Complia
 
 ## What Is This?
 
-This repository contains 13 production-ready security policy templates that map directly to SOC 2 Trust Services Criteria and ISO 27001:2022 Annex A controls. They are written for startups, SaaS companies, and growth-stage organizations that need real, auditor-accepted policies -- not generic boilerplate.
+This repository contains 13 production-ready security policy templates that map directly to SOC 2 Trust Services Criteria and ISO 27001:2022 Annex A controls. They are written for startups, SaaS companies, and growth-stage organizations that need real, auditor-accepted policies: not generic boilerplate.
 
-Every template has been informed by hands-on audit preparation experience. TrazTech's principal, Jacob Masse -- a published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1) -- has guided startups from zero to SOC 2 Type II with zero exceptions across 76 controls, in as few as 75 days, and saved clients an average of $11K on audit quotes.
+Every template has been informed by hands-on audit preparation experience. TrazTech's principal, Jacob Masse: a published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1): has guided startups from zero to SOC 2 Type II with zero exceptions across 76 controls, in as few as 75 days, and saved clients an average of $11K on audit quotes.
 
 ## Who Is This For?
 
@@ -97,12 +97,12 @@ Each policy maps to specific SOC 2 Trust Services Criteria (CC) and ISO 27001:20
 
 Building a compliance program is more than writing policies. These resources from TrazTech will help you operationalize what you adopt here:
 
-- **[SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist)** -- Free interactive checklist covering all Trust Services Criteria
-- **[Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check)** -- Free tool to assess your cloud environment's security baseline
-- **[Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh)** -- Why stale evidence fails audits and how to automate collection
-- **[Who Owns Compliance After Readiness?](https://traztech.ca/blog/who-owns-compliance-after-readiness)** -- Defining long-term ownership so your program doesn't decay
-- **[Compliance Calendar: What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs)** -- The recurring tasks that keep your controls operational year-round
-- **[Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits)** -- How to detect and prevent controls from degrading after your audit
+- **[SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist)**: Free interactive checklist covering all Trust Services Criteria
+- **[Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check)**: Free tool to assess your cloud environment's security baseline
+- **[Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh)**: Why stale evidence fails audits and how to automate collection
+- **[Who Owns Compliance After Readiness?](https://traztech.ca/blog/who-owns-compliance-after-readiness)**: Defining long-term ownership so your program doesn't decay
+- **[Compliance Calendar: What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs)**: The recurring tasks that keep your controls operational year-round
+- **[Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits)**: How to detect and prevent controls from degrading after your audit
 
 ## Free Compliance Tracking
 

@@ -11,7 +11,7 @@ Use this matrix to demonstrate auditor coverage and identify any gaps in your co
 ### Information Security Policy
 | Framework | Control ID | Control Name |
 |---|---|---|
-| SOC 2 | CC1.1 | Control Environment -- Demonstrates Commitment to Integrity and Ethical Values |
+| SOC 2 | CC1.1 | Control Environment: Demonstrates Commitment to Integrity and Ethical Values |
 | SOC 2 | CC1.2 | Board of Directors Demonstrates Independence and Exercises Oversight |
 | SOC 2 | CC1.3 | Management Establishes Structure, Authority, and Responsibility |
 | SOC 2 | CC5.1 | Selects and Develops Control Activities |
@@ -34,7 +34,7 @@ Use this matrix to demonstrate auditor coverage and identify any gaps in your co
 ### Access Control Policy
 | Framework | Control ID | Control Name |
 |---|---|---|
-| SOC 2 | CC6.1 | Logical and Physical Access Controls -- Implements Logical Access Security Software |
+| SOC 2 | CC6.1 | Logical and Physical Access Controls: Implements Logical Access Security Software |
 | SOC 2 | CC6.2 | Prior to Issuing System Credentials, Registers and Authorizes New Users |
 | SOC 2 | CC6.3 | Authorizes, Modifies, or Removes Access Based on Authorization |
 | SOC 2 | CC6.5 | Restricts Registration and Devices to Authorized Individuals |
@@ -295,4 +295,4 @@ The following matrix shows at a glance which policies address each SOC 2 criteri
 
 ---
 
-*Maintained by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto*
+*Maintained by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto*

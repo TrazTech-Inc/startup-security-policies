@@ -13,7 +13,7 @@
 
 ## 1. Purpose
 
-This Risk Management Policy defines [COMPANY_NAME]'s framework for identifying, assessing, treating, monitoring, and communicating information security risks. Risk management is the backbone of any security program -- it ensures that controls are deployed where they matter most and that leadership has visibility into the threats that could impact the business.
+This Risk Management Policy defines [COMPANY_NAME]'s framework for identifying, assessing, treating, monitoring, and communicating information security risks. Risk management is the backbone of any security program: it ensures that controls are deployed where they matter most and that leadership has visibility into the threats that could impact the business.
 
 This policy ensures that security investment is directed by evidence and business impact, not by checklists or vendor fear-mongering. It also provides auditors with confidence that [COMPANY_NAME] understands its risk landscape and manages it deliberately.
 
@@ -93,8 +93,8 @@ Risks shall be identified through multiple channels:
 - **Incident post-mortems** and near-miss analyses
 - **Audit findings** (internal and external)
 - **Vendor risk assessments** (per the Vendor Management Policy)
-- **Change management** -- new systems, services, or significant changes trigger risk reassessment
-- **Employee reporting** -- any employee can identify and report a risk to [SECURITY_TEAM_EMAIL]
+- **Change management**: new systems, services, or significant changes trigger risk reassessment
+- **Employee reporting**: any employee can identify and report a risk to [SECURITY_TEAM_EMAIL]
 
 #### 3.3.2 Risk Analysis
 
@@ -264,4 +264,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on preventing control and risk drift between audits, read [Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on preventing control and risk drift between audits, read [Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits).*

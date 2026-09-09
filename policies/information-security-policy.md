@@ -15,7 +15,7 @@
 
 This Information Security Policy establishes the foundation of [COMPANY_NAME]'s Information Security Management System (ISMS). It defines the organization's commitment to protecting the confidentiality, integrity, and availability of information assets, sets the strategic direction for information security, and provides the framework under which all subordinate security policies operate.
 
-This policy exists because security is not a feature -- it is an operational requirement. [COMPANY_NAME] handles data entrusted to us by customers, partners, and employees. Protecting that data is both a business obligation and an ethical responsibility.
+This policy exists because security is not a feature: it is an operational requirement. [COMPANY_NAME] handles data entrusted to us by customers, partners, and employees. Protecting that data is both a business obligation and an ethical responsibility.
 
 ## 2. Scope
 
@@ -145,7 +145,7 @@ This policy shall be reviewed **annually** or upon:
 
 | Framework | Control | Description |
 |---|---|---|
-| SOC 2 | CC1.1 | Control Environment -- Demonstrates Commitment to Integrity and Ethical Values |
+| SOC 2 | CC1.1 | Control Environment: Demonstrates Commitment to Integrity and Ethical Values |
 | SOC 2 | CC1.2 | Board of Directors Demonstrates Independence and Exercises Oversight |
 | SOC 2 | CC1.3 | Management Establishes Structure, Authority, and Responsibility |
 | SOC 2 | CC5.1 | Selects and Develops Control Activities |
@@ -157,4 +157,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For implementation guidance, see the [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For implementation guidance, see the [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist).*

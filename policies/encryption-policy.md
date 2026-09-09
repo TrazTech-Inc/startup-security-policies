@@ -15,7 +15,7 @@
 
 This Encryption Policy defines [COMPANY_NAME]'s requirements for the use of cryptographic controls to protect the confidentiality and integrity of data at rest, in transit, and in use. It establishes approved cryptographic algorithms, key management practices, and implementation standards to ensure that encryption is applied consistently and effectively across all systems that handle sensitive data.
 
-Encryption is not a checkbox -- it is a foundational control. Improperly implemented encryption (weak algorithms, poor key management, unencrypted backups) provides a false sense of security that is worse than no encryption claim at all.
+Encryption is not a checkbox: it is a foundational control. Improperly implemented encryption (weak algorithms, poor key management, unencrypted backups) provides a false sense of security that is worse than no encryption claim at all.
 
 ## 2. Scope
 
@@ -206,4 +206,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. Assess your cloud encryption posture with the free [Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. Assess your cloud encryption posture with the free [Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check).*

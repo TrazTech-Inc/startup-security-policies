@@ -176,4 +176,4 @@ This policy shall be reviewed **annually** or upon significant changes to the te
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on building a compliance culture, read [Who Owns Compliance After Readiness?](https://traztech.ca/blog/who-owns-compliance-after-readiness)*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on building a compliance culture, read [Who Owns Compliance After Readiness?](https://traztech.ca/blog/who-owns-compliance-after-readiness)*

@@ -122,7 +122,7 @@ This policy applies to:
 
 ## 5. Data Ownership
 
-- Every data set or information asset must have a designated **data owner** -- typically the head of the department or function that creates or manages that data.
+- Every data set or information asset must have a designated **data owner**: typically the head of the department or function that creates or manages that data.
 - Data owners are responsible for:
   - Assigning and reviewing the classification level of their data
   - Defining who may access their data
@@ -191,4 +191,4 @@ This policy shall be reviewed **annually** or upon:
 
 ---
 
-*Template provided by [TrazTech](https://traztech.ca) -- Security & Compliance Consultancy, Toronto. For guidance on managing evidence of data handling controls, read [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh).*
+*Template provided by [TrazTech](https://traztech.ca): Security & Compliance Consultancy, Toronto. For guidance on managing evidence of data handling controls, read [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh).*
