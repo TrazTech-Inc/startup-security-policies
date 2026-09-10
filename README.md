@@ -110,6 +110,13 @@ Building a compliance program is more than writing policies. These resources fro
 - **[Compliance Calendar: What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs)**: The recurring tasks that keep your controls operational year-round
 - **[Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits)**: How to detect and prevent controls from degrading after your audit
 
+## See Also
+
+- [awesome-soc2](https://github.com/TrazTech-Inc/awesome-soc2) - Curated list of SOC 2 resources, tools, and guides.
+- [cloud-security-audit-scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) - Pre-audit cloud security scripts for AWS, GCP, and Azure.
+- [awesome-compliance-automation](https://github.com/TrazTech-Inc/awesome-compliance-automation) - 270+ compliance automation tools across all major frameworks.
+- [vendor-risk-assessment-toolkit](https://github.com/TrazTech-Inc/vendor-risk-assessment-toolkit) - Vendor risk assessment templates, scoring, and automation.
+
 ## Free Compliance Tracking
 
 TrazTech offers a **free compliance tracking workspace** to help startups manage policies, evidence, and control status in one place. Visit [traztech.ca](https://traztech.ca) to get started.
