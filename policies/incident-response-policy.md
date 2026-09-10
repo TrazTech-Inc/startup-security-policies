@@ -217,6 +217,12 @@ This policy shall be reviewed **annually** or upon:
 - Changes to regulatory notification requirements
 - Significant changes to the organization's systems or infrastructure
 
+## 8. Related Policies
+
+- [Information Security Policy](information-security-policy.md)
+- [Logging and Monitoring Policy](logging-monitoring-policy.md)
+- [Business Continuity Policy](business-continuity-policy.md)
+
 ---
 
 ## Compliance Mapping

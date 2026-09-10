@@ -43,10 +43,8 @@ Every template uses standardized placeholders. Find and replace these with your 
 | `[POLICY_OWNER]` | Role or person responsible for the policy |
 | `[APPROVED_BY]` | Executive or board member who approves |
 | `[VERSION]` | Your version number (start with 1.0) |
-| `[COMPANY_DOMAIN]` | Your primary domain (e.g., example.com) |
 | `[SECURITY_TEAM_EMAIL]` | Your security team's email address |
 | `[INCIDENT_RESPONSE_EMAIL]` | Your IR notification email |
-| `[HR_CONTACT]` | Your HR department contact |
 | `[LEGAL_CONTACT]` | Your legal department contact |
 
 See [CUSTOMIZATION.md](CUSTOMIZATION.md) for detailed guidance on adapting each template.
