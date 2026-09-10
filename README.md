@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Startup Security Policies" width="100%">
+</p>
+
 # Startup Security Policies
 
 **Open-source security policy templates for startups preparing for SOC 2, ISO 27001, and other compliance audits.**
