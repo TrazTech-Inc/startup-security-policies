@@ -157,7 +157,7 @@ This policy shall be reviewed **annually** or upon:
 - Significant changes to [COMPANY_NAME]'s vendor landscape
 - Audit findings related to vendor management
 
-## 7. Related Policies
+## 8. Related Policies
 
 - [Information Security Policy](information-security-policy.md)
 - [Data Classification Policy](data-classification-policy.md)

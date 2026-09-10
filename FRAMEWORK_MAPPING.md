@@ -71,7 +71,7 @@ Use this matrix to demonstrate auditor coverage and identify any gaps in your co
 | SOC 2 | CC7.2 | Monitors System Components for Anomalies |
 | SOC 2 | CC7.3 | Evaluates Security Events to Determine Whether They Are Incidents |
 | SOC 2 | CC7.4 | Responds to Identified Security Incidents |
-| SOC 2 | CC7.5 | Identifies and Assesses the Impact of Incidents |
+| SOC 2 | CC7.5 | Identifies and Communicates Response Activities |
 | SOC 2 | CC2.2 | Communicates with External Parties |
 | ISO 27001 | A.5.24 | Information Security Incident Management Planning and Preparation |
 | ISO 27001 | A.5.25 | Assessment and Decision on Information Security Events |
@@ -110,7 +110,7 @@ Use this matrix to demonstrate auditor coverage and identify any gaps in your co
 | SOC 2 | A1.1 | Meets Availability Commitments and System Requirements |
 | SOC 2 | A1.2 | Provides for Recovery of the System |
 | SOC 2 | A1.3 | Tests Recovery Plan Procedures |
-| SOC 2 | CC9.1 | Identifies and Assesses Risk from Business Disruptions |
+| SOC 2 | CC9.1 | Identifies, Selects, and Develops Risk Mitigation Activities for Business Disruptions |
 | ISO 27001 | A.5.29 | Information Security during Disruption |
 | ISO 27001 | A.5.30 | ICT Readiness for Business Continuity |
 | ISO 27001 | A.8.13 | Information Backup |
@@ -193,14 +193,14 @@ Use this matrix to demonstrate auditor coverage and identify any gaps in your co
 | SOC 2 | CC6.1 | Logical and Physical Access Controls |
 | SOC 2 | CC6.7 | Restricts Transmission, Movement, and Removal of Information |
 | ISO 27001 | A.5.10 | Acceptable Use of Information and Other Associated Assets |
-| ISO 27001 | A.8.24 | Use of Cryptography |
+| ISO 27001 | A.5.23 | Information Security for Use of Cloud Services |
 
 ### Privacy & Data Protection Policy
 | Framework | Control ID | Control Name |
 |---|---|---|
-| SOC 2 | P1.0 | Privacy Criteria: Notice and Communication of Objectives |
-| SOC 2 | P1.1 | Privacy Criteria: Choice and Consent |
-| SOC 2 | P1.2 | Privacy Criteria: Collection |
+| SOC 2 | P1.1 | Privacy Criteria: Notice and Communication of Objectives |
+| SOC 2 | P3.1 | Privacy Criteria: Collection |
+| SOC 2 | P6.1 | Privacy Criteria: Disclosure and Notification |
 | ISO 27001 | A.5.34 | Privacy and Protection of PII |
 
 ---
@@ -246,9 +246,9 @@ The following matrix shows at a glance which policies address each SOC 2 criteri
 | A1.1 | | | | | | | | X | | | | | | | |
 | A1.2 | | | | | | | | X | | | | | | | |
 | A1.3 | | | | | | | | X | | | | | | | |
-| P1.0 | | | | | | | | | | | | | | | X |
 | P1.1 | | | | | | | | | | | | | | | X |
-| P1.2 | | | | | | | | | | | | | | | X |
+| P3.1 | | | | | | | | | | | | | | | X |
+| P6.1 | | | | | | | | | | | | | | | X |
 
 **Legend:** ISP = Information Security, AUP = Acceptable Use, ACP = Access Control, CMP = Change Management, IRP = Incident Response, DCP = Data Classification, VMP = Vendor Management, BCP = Business Continuity, EP = Encryption, HRP = HR Security, LMP = Logging & Monitoring, PSP = Physical Security, RMP = Risk Management, AIUP = AI Acceptable Use, PDP = Privacy & Data Protection
 
@@ -276,7 +276,7 @@ The following matrix shows at a glance which policies address each SOC 2 criteri
 | A.5.20 | | | | | | | X | | | | | | | | |
 | A.5.21 | | | | | | | X | | | | | | | | |
 | A.5.22 | | | | | | | X | | | | | | | | |
-| A.5.23 | | | | | | | X | | | | | | | | |
+| A.5.23 | | | | | | | X | | | | | | | X | |
 | A.5.24 | | | | | X | | | | | | | | | | |
 | A.5.25 | | | | | X | | | | | | | | | | |
 | A.5.26 | | | | | X | | | | | | | | | | |
@@ -303,7 +303,7 @@ The following matrix shows at a glance which policies address each SOC 2 criteri
 | A.8.15 | | | | | | | | | | | X | | | | |
 | A.8.16 | | | | | | | | | | | X | | | | |
 | A.8.17 | | | | | | | | | | | X | | | | |
-| A.8.24 | | | | | | | | | X | | | | | X | |
+| A.8.24 | | | | | | | | | X | | | | | | |
 | A.8.25-8.33 | | | | X | | | | | | | | | | | |
 
 ---

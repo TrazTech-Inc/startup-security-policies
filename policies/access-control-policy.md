@@ -172,7 +172,7 @@ This policy shall be reviewed **annually** or upon:
 - Security incidents related to unauthorized access
 - Changes in regulatory or compliance requirements
 
-## 8. Related Policies
+## 7. Related Policies
 
 - [Information Security Policy](information-security-policy.md)
 - [Human Resources Security Policy](human-resources-security-policy.md)

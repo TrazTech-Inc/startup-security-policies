@@ -217,7 +217,7 @@ This policy shall be reviewed **annually** or upon:
 - Changes to regulatory notification requirements
 - Significant changes to the organization's systems or infrastructure
 
-## 8. Related Policies
+## 12. Related Policies
 
 - [Information Security Policy](information-security-policy.md)
 - [Logging and Monitoring Policy](logging-monitoring-policy.md)
@@ -232,7 +232,7 @@ This policy shall be reviewed **annually** or upon:
 | SOC 2 | CC7.2 | Monitors System Components for Anomalies |
 | SOC 2 | CC7.3 | Evaluates Security Events to Determine Whether They Are Incidents |
 | SOC 2 | CC7.4 | Responds to Identified Security Incidents |
-| SOC 2 | CC7.5 | Identifies and Assesses the Impact of Incidents |
+| SOC 2 | CC7.5 | Identifies and Communicates Response Activities |
 | SOC 2 | CC2.2 | Communicates with External Parties |
 | ISO 27001 | A.5.24 | Information Security Incident Management Planning and Preparation |
 | ISO 27001 | A.5.25 | Assessment and Decision on Information Security Events |

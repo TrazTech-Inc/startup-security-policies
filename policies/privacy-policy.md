@@ -187,9 +187,9 @@ This policy shall be reviewed **annually** or upon:
 
 | Framework | Control | Description |
 |---|---|---|
-| SOC 2 | P1.0 | Privacy Criteria: Notice and Communication of Objectives |
-| SOC 2 | P1.1 | Privacy Criteria: Choice and Consent |
-| SOC 2 | P1.2 | Privacy Criteria: Collection |
+| SOC 2 | P1.1 | Privacy Criteria: Notice and Communication of Objectives |
+| SOC 2 | P3.1 | Privacy Criteria: Collection |
+| SOC 2 | P6.1 | Privacy Criteria: Disclosure and Notification |
 | ISO 27001 | A.5.34 | Privacy and Protection of PII |
 
 ---

@@ -166,7 +166,7 @@ This policy shall be reviewed **semi-annually** due to the rapid evolution of AI
 | SOC 2 | CC6.1 | Logical and Physical Access Controls |
 | SOC 2 | CC6.7 | Restricts Transmission, Movement, and Removal of Information |
 | ISO 27001 | A.5.10 | Acceptable Use of Information and Other Associated Assets |
-| ISO 27001 | A.8.24 | Use of Cryptography |
+| ISO 27001 | A.5.23 | Information Security for Use of Cloud Services |
 
 ---
 
