@@ -10,7 +10,7 @@ Maintained by [TrazTech](https://traztech.ca) | Toronto-based Security & Complia
 
 This repository contains 13 production-ready security policy templates that map directly to SOC 2 Trust Services Criteria and ISO 27001:2022 Annex A controls. They are written for startups, SaaS companies, and growth-stage organizations that need real, auditor-accepted policies: not generic boilerplate.
 
-Every template has been informed by hands-on audit preparation experience. TrazTech's principal, Jacob Masse: a published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1): has guided startups from zero to SOC 2 Type II with zero exceptions across 76 controls, in as few as 75 days, and saved clients an average of $11K on audit quotes.
+Every template has been informed by hands-on audit preparation experience. TrazTech's principal, [Jacob Masse](https://jacobmasse.com): a published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1): has guided startups from zero to SOC 2 Type II with zero exceptions across 76 controls, in as few as 75 days, and saved clients an average of $11K on audit quotes.
 
 ## Who Is This For?
 
@@ -120,6 +120,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ### Maintained by TrazTech
 
-[TrazTech](https://traztech.ca) is a security and compliance consultancy based in Toronto, specializing in SOC 2 readiness, ISO 27001, HIPAA, PCI DSS, penetration testing, and cloud security. Led by Jacob Masse, a published security researcher with 5 CVEs including CVE-2024-45163 (CVSS 9.1), TrazTech has achieved zero exceptions on SOC 2 Type II audits across 76 controls and helped startups reach audit-ready status in as few as 75 days.
+[TrazTech](https://traztech.ca) is a security and compliance consultancy based in Toronto, specializing in SOC 2 readiness, ISO 27001, HIPAA, PCI DSS, penetration testing, and cloud security. Led by [Jacob Masse](https://jacobmasse.com), a published security researcher with 5 CVEs including CVE-2024-45163 (CVSS 9.1), TrazTech has achieved zero exceptions on SOC 2 Type II audits across 76 controls and helped startups reach audit-ready status in as few as 75 days.
 
 **Get in touch:** [traztech.ca](https://traztech.ca)
