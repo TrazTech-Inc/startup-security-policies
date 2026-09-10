@@ -12,7 +12,7 @@ Maintained by [TrazTech](https://traztech.ca) | Toronto-based Security & Complia
 
 ## What Is This?
 
-This repository contains 13 production-ready security policy templates that map directly to SOC 2 Trust Services Criteria and ISO 27001:2022 Annex A controls. They are written for startups, SaaS companies, and growth-stage organizations that need real, auditor-accepted policies: not generic boilerplate.
+This repository contains 15 production-ready security policy templates that map directly to SOC 2 Trust Services Criteria and ISO 27001:2022 Annex A controls. They are written for startups, SaaS companies, and growth-stage organizations that need real, auditor-accepted policies: not generic boilerplate.
 
 Every template has been informed by hands-on audit preparation experience. TrazTech's principal, [Jacob Masse](https://jacobmasse.com): a published security researcher with 5 CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163) (CVSS 9.1): has guided startups from zero to SOC 2 Type II with zero exceptions across 76 controls, in as few as 75 days, and saved clients an average of $11K on audit quotes.
 
@@ -74,6 +74,8 @@ Distribute policies to employees, conduct awareness training, and store approved
 | Logging & Monitoring Policy | [policies/logging-monitoring-policy.md](policies/logging-monitoring-policy.md) | Centralized logging, retention, alerting |
 | Physical Security Policy | [policies/physical-security-policy.md](policies/physical-security-policy.md) | Office and datacenter physical controls |
 | Risk Management Policy | [policies/risk-management-policy.md](policies/risk-management-policy.md) | Risk assessment methodology and risk register |
+| AI Acceptable Use Policy | [policies/ai-acceptable-use-policy.md](policies/ai-acceptable-use-policy.md) | Rules for AI tool usage, data handling, and code review |
+| Privacy & Data Protection Policy | [policies/privacy-policy.md](policies/privacy-policy.md) | Privacy rights, lawful basis, breach notification, PIAs |
 
 ## Framework Mapping Overview
 
@@ -94,6 +96,8 @@ Each policy maps to specific SOC 2 Trust Services Criteria (CC) and ISO 27001:20
 | Logging & Monitoring | CC7.1-7.2 | A.8.15-8.16 |
 | Physical Security | CC6.4 | A.7.1-7.14 |
 | Risk Management | CC3.1-3.4 | A.5.2-5.6 |
+| AI Acceptable Use | CC1.4, CC6.1, CC6.7 | A.5.10, A.8.24 |
+| Privacy & Data Protection | P1.0-P1.2 | A.5.34 |
 
 ## Implementation Guidance
 

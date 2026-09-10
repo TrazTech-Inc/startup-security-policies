@@ -186,6 +186,23 @@ Use this matrix to demonstrate auditor coverage and identify any gaps in your co
 | ISO 27001 | A.5.5 | Contact with Authorities |
 | ISO 27001 | A.5.6 | Contact with Special Interest Groups |
 
+### AI Acceptable Use Policy
+| Framework | Control ID | Control Name |
+|---|---|---|
+| SOC 2 | CC1.4 | Demonstrates Commitment to Competence |
+| SOC 2 | CC6.1 | Logical and Physical Access Controls |
+| SOC 2 | CC6.7 | Restricts Transmission, Movement, and Removal of Information |
+| ISO 27001 | A.5.10 | Acceptable Use of Information and Other Associated Assets |
+| ISO 27001 | A.8.24 | Use of Cryptography |
+
+### Privacy & Data Protection Policy
+| Framework | Control ID | Control Name |
+|---|---|---|
+| SOC 2 | P1.0 | Privacy Criteria: Notice and Communication of Objectives |
+| SOC 2 | P1.1 | Privacy Criteria: Choice and Consent |
+| SOC 2 | P1.2 | Privacy Criteria: Collection |
+| ISO 27001 | A.5.34 | Privacy and Protection of PII |
+
 ---
 
 ## Cross-Reference Matrix
@@ -194,96 +211,100 @@ The following matrix shows at a glance which policies address each SOC 2 criteri
 
 ### SOC 2 Trust Services Criteria Coverage
 
-| Criterion | ISP | AUP | ACP | CMP | IRP | DCP | VMP | BCP | EP | HRP | LMP | PSP | RMP |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| CC1.1 | X | | | | | | | | | | | | |
-| CC1.2 | X | | | | | | | | | | | | |
-| CC1.3 | X | | | | | | | | | | | | |
-| CC1.4 | | X | | | | | | | | X | | | |
-| CC1.5 | | X | | | | | | | | X | | | |
-| CC2.2 | | | | | X | | | | | X | | | |
-| CC2.3 | | | | | | | X | | | | | | |
-| CC3.1 | | | | | | | | | | | | | X |
-| CC3.2 | | | | | | | X | | | | | | X |
-| CC3.3 | | | | | | | | | | | | | X |
-| CC3.4 | | | | | | | | | | | | | X |
-| CC4.1 | | | | | | | | | | | | | X |
-| CC4.2 | | | | | | | | | | | | | X |
-| CC5.1 | X | | | | | | | | | | | | X |
-| CC5.2 | X | | | | | | | | | | | | |
-| CC6.1 | | | X | X | | X | | | X | | | | |
-| CC6.2 | | | X | | | | | | | X | | | |
-| CC6.3 | | | X | | | | | | | X | | | |
-| CC6.4 | | | | | | | | | | | | X | |
-| CC6.5 | | | X | | | X | | | | | | X | |
-| CC6.6 | | | X | | | | | | | | | | |
-| CC6.7 | | | | | | X | | | X | | | | |
-| CC7.1 | | | | X | | | | | | | X | | |
-| CC7.2 | | | | | X | | | | | | X | | |
-| CC7.3 | | | | | X | | | | | | X | | |
-| CC7.4 | | | | | X | | | | | | | | |
-| CC7.5 | | | | | X | | | | | | | | |
-| CC8.1 | | | | X | | | | | | | | | |
-| CC9.1 | | | | | | | | X | | | | | |
-| CC9.2 | | | | | | | X | | | | | | |
-| A1.1 | | | | | | | | X | | | | | |
-| A1.2 | | | | | | | | X | | | | | |
-| A1.3 | | | | | | | | X | | | | | |
+| Criterion | ISP | AUP | ACP | CMP | IRP | DCP | VMP | BCP | EP | HRP | LMP | PSP | RMP | AIUP | PDP |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| CC1.1 | X | | | | | | | | | | | | | | |
+| CC1.2 | X | | | | | | | | | | | | | | |
+| CC1.3 | X | | | | | | | | | | | | | | |
+| CC1.4 | | X | | | | | | | | X | | | | X | |
+| CC1.5 | | X | | | | | | | | X | | | | | |
+| CC2.2 | | | | | X | | | | | X | | | | | |
+| CC2.3 | | | | | | | X | | | | | | | | |
+| CC3.1 | | | | | | | | | | | | | X | | |
+| CC3.2 | | | | | | | X | | | | | | X | | |
+| CC3.3 | | | | | | | | | | | | | X | | |
+| CC3.4 | | | | | | | | | | | | | X | | |
+| CC4.1 | | | | | | | | | | | | | X | | |
+| CC4.2 | | | | | | | | | | | | | X | | |
+| CC5.1 | X | | | | | | | | | | | | X | | |
+| CC5.2 | X | | | | | | | | | | | | | | |
+| CC6.1 | | | X | X | | X | | | X | | | | | X | |
+| CC6.2 | | | X | | | | | | | X | | | | | |
+| CC6.3 | | | X | | | | | | | X | | | | | |
+| CC6.4 | | | | | | | | | | | | X | | | |
+| CC6.5 | | | X | | | X | | | | | | X | | | |
+| CC6.6 | | | X | | | | | | | | | | | | |
+| CC6.7 | | | | | | X | | | X | | | | | X | |
+| CC7.1 | | | | X | | | | | | | X | | | | |
+| CC7.2 | | | | | X | | | | | | X | | | | |
+| CC7.3 | | | | | X | | | | | | X | | | | |
+| CC7.4 | | | | | X | | | | | | | | | | |
+| CC7.5 | | | | | X | | | | | | | | | | |
+| CC8.1 | | | | X | | | | | | | | | | | |
+| CC9.1 | | | | | | | | X | | | | | | | |
+| CC9.2 | | | | | | | X | | | | | | | | |
+| A1.1 | | | | | | | | X | | | | | | | |
+| A1.2 | | | | | | | | X | | | | | | | |
+| A1.3 | | | | | | | | X | | | | | | | |
+| P1.0 | | | | | | | | | | | | | | | X |
+| P1.1 | | | | | | | | | | | | | | | X |
+| P1.2 | | | | | | | | | | | | | | | X |
 
-**Legend:** ISP = Information Security, AUP = Acceptable Use, ACP = Access Control, CMP = Change Management, IRP = Incident Response, DCP = Data Classification, VMP = Vendor Management, BCP = Business Continuity, EP = Encryption, HRP = HR Security, LMP = Logging & Monitoring, PSP = Physical Security, RMP = Risk Management
+**Legend:** ISP = Information Security, AUP = Acceptable Use, ACP = Access Control, CMP = Change Management, IRP = Incident Response, DCP = Data Classification, VMP = Vendor Management, BCP = Business Continuity, EP = Encryption, HRP = HR Security, LMP = Logging & Monitoring, PSP = Physical Security, RMP = Risk Management, AIUP = AI Acceptable Use, PDP = Privacy & Data Protection
 
 ### ISO 27001:2022 Annex A Coverage
 
-| Control | ISP | AUP | ACP | CMP | IRP | DCP | VMP | BCP | EP | HRP | LMP | PSP | RMP |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| A.5.1 | X | | | | | | | | | | | | |
-| A.5.2 | X | | | | | | | | | | | | X |
-| A.5.3 | X | | | | | | | | | | | | X |
-| A.5.4 | X | | | | | | | | | | | | X |
-| A.5.5 | | | | | | | | | | | | | X |
-| A.5.6 | | | | | | | | | | | | | X |
-| A.5.9 | | | | | | X | | | | | | | |
-| A.5.10 | | X | | | | X | | | | | | | |
-| A.5.11 | | X | | | | | | | | | | | |
-| A.5.12 | | | | | | X | | | | | | | |
-| A.5.13 | | | | | | X | | | | | | | |
-| A.5.14 | | | | | | X | | | X | | | | |
-| A.5.15 | | | X | | | | | | | | | | |
-| A.5.16 | | | X | | | | | | | | | | |
-| A.5.17 | | | X | | | | | | | | | | |
-| A.5.18 | | | X | | | | | | | | | | |
-| A.5.19 | | | | | | | X | | | | | | |
-| A.5.20 | | | | | | | X | | | | | | |
-| A.5.21 | | | | | | | X | | | | | | |
-| A.5.22 | | | | | | | X | | | | | | |
-| A.5.23 | | | | | | | X | | | | | | |
-| A.5.24 | | | | | X | | | | | | | | |
-| A.5.25 | | | | | X | | | | | | | | |
-| A.5.26 | | | | | X | | | | | | | | |
-| A.5.27 | | | | | X | | | | | | | | |
-| A.5.28 | | | | | X | | | | | | | | |
-| A.5.29 | | | | | | | | X | | | | | |
-| A.5.30 | | | | | | | | X | | | | | |
-| A.6.1 | | | | | | | | | | X | | | |
-| A.6.2 | | X | | | | | | | | X | | | |
-| A.6.3 | | | | | | | | | | X | | | |
-| A.6.4 | | | | | | | | | | X | | | |
-| A.6.5 | | | | | | | | | | X | | | |
-| A.6.6 | | | | | | | | | | X | | | |
-| A.6.8 | | | | | X | | | | | | | | |
-| A.7.1-7.14 | | | | | | | | | | | | X | |
-| A.8.2 | | | X | | | | | | | | | | |
-| A.8.3 | | | X | | | | | | | | | | |
-| A.8.4 | | | X | | | | | | | | | | |
-| A.8.5 | | | X | | | | | | | | | | |
-| A.8.9 | | | | X | | | | | X | | | | |
-| A.8.13 | | | | | | | | X | | | | | |
-| A.8.14 | | | | | | | | X | | | | | |
-| A.8.15 | | | | | | | | | | | X | | |
-| A.8.16 | | | | | | | | | | | X | | |
-| A.8.17 | | | | | | | | | | | X | | |
-| A.8.24 | | | | | | | | | X | | | | |
-| A.8.25-8.33 | | | | X | | | | | | | | | |
+| Control | ISP | AUP | ACP | CMP | IRP | DCP | VMP | BCP | EP | HRP | LMP | PSP | RMP | AIUP | PDP |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A.5.1 | X | | | | | | | | | | | | | | |
+| A.5.2 | X | | | | | | | | | | | | X | | |
+| A.5.3 | X | | | | | | | | | | | | X | | |
+| A.5.4 | X | | | | | | | | | | | | X | | |
+| A.5.5 | | | | | | | | | | | | | X | | |
+| A.5.6 | | | | | | | | | | | | | X | | |
+| A.5.9 | | | | | | X | | | | | | | | | |
+| A.5.10 | | X | | | | X | | | | | | | | X | |
+| A.5.11 | | X | | | | | | | | | | | | | |
+| A.5.12 | | | | | | X | | | | | | | | | |
+| A.5.13 | | | | | | X | | | | | | | | | |
+| A.5.14 | | | | | | X | | | X | | | | | | |
+| A.5.15 | | | X | | | | | | | | | | | | |
+| A.5.16 | | | X | | | | | | | | | | | | |
+| A.5.17 | | | X | | | | | | | | | | | | |
+| A.5.18 | | | X | | | | | | | | | | | | |
+| A.5.19 | | | | | | | X | | | | | | | | |
+| A.5.20 | | | | | | | X | | | | | | | | |
+| A.5.21 | | | | | | | X | | | | | | | | |
+| A.5.22 | | | | | | | X | | | | | | | | |
+| A.5.23 | | | | | | | X | | | | | | | | |
+| A.5.24 | | | | | X | | | | | | | | | | |
+| A.5.25 | | | | | X | | | | | | | | | | |
+| A.5.26 | | | | | X | | | | | | | | | | |
+| A.5.27 | | | | | X | | | | | | | | | | |
+| A.5.28 | | | | | X | | | | | | | | | | |
+| A.5.29 | | | | | | | | X | | | | | | | |
+| A.5.30 | | | | | | | | X | | | | | | | |
+| A.5.34 | | | | | | | | | | | | | | | X |
+| A.6.1 | | | | | | | | | | X | | | | | |
+| A.6.2 | | X | | | | | | | | X | | | | | |
+| A.6.3 | | | | | | | | | | X | | | | | |
+| A.6.4 | | | | | | | | | | X | | | | | |
+| A.6.5 | | | | | | | | | | X | | | | | |
+| A.6.6 | | | | | | | | | | X | | | | | |
+| A.6.8 | | | | | X | | | | | | | | | | |
+| A.7.1-7.14 | | | | | | | | | | | | X | | | |
+| A.8.2 | | | X | | | | | | | | | | | | |
+| A.8.3 | | | X | | | | | | | | | | | | |
+| A.8.4 | | | X | | | | | | | | | | | | |
+| A.8.5 | | | X | | | | | | | | | | | | |
+| A.8.9 | | | | X | | | | | X | | | | | | |
+| A.8.13 | | | | | | | | X | | | | | | | |
+| A.8.14 | | | | | | | | X | | | | | | | |
+| A.8.15 | | | | | | | | | | | X | | | | |
+| A.8.16 | | | | | | | | | | | X | | | | |
+| A.8.17 | | | | | | | | | | | X | | | | |
+| A.8.24 | | | | | | | | | X | | | | | X | |
+| A.8.25-8.33 | | | | X | | | | | | | | | | | |
 
 ---
 
